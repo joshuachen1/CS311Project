@@ -12,7 +12,7 @@ Provide the Following:
             Input "-1" to stop adding Transitions
     
     4. The Final States
-        Input "-1" to stop adding Final States
+            Input "-1" to stop adding Final States
         
 Next, enter the characters of a String, individually.
     
