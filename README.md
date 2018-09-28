@@ -3,15 +3,15 @@ Simulates a Deterministic Pushdown Automata
 
 Provide the Following:
     
-    Number of States
+    1. Number of States
     
-    Alphabet of the Language
+    2. Alphabet of the Language
     
-    The Transitions From One State to Another
-        (Use the following format: [startState] [inputCharacter] [popOffStack] [nextState] [pushOnToStack])
-        Input "-1" to stop adding Transitions
+    3. The Transitions From One State to Another
+            Use the following format: [startState] [inputCharacter] [popOffStack] [nextState] [pushOnToStack]
+            Input "-1" to stop adding Transitions
     
-    The Final States
+    4. The Final States
         Input "-1" to stop adding Final States
         
 Next, enter the characters of a String, individually.
